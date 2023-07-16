@@ -57,4 +57,4 @@ while game_on:
 
 turtle.mainloop()
 
-#  instead screen.exitonclick() used tomy.mainloop()
+#  instead screen.exitonclick() used turtle.mainloop()
